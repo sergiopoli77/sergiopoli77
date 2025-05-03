@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Sergio Poli
+## Hello I'm Sergio Poli
 
-Welcome to my GitHub profile! I'm a passionate software developer who enjoys building cool stuff, solving problems, and learning new technologies.
+Code. Create. Learn. Repeat. Welcome to the journey.
 
 ---
 
