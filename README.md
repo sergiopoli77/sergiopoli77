@@ -4,52 +4,40 @@ Welcome to my GitHub profile! I'm a passionate software developer who enjoys bui
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🔭 I’m currently working on: **Open-source projects and freelance web apps**
-- 🌱 I’m currently learning: **Next.js, TypeScript, and Rust**
-- 👯 I’m looking to collaborate on: **Web development projects and innovative ideas**
-- 💬 Ask me about: **JavaScript, React, Node.js, and APIs**
-- 📫 How to reach me: [sergiopoli@example.com](mailto:sergiopoli@example.com) or [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I once built a to-do app entirely using only voice commands 🎤
+### 🌐 Connect with Me
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
+[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technologies & Tools
 
-- **Languages**: JavaScript, TypeScript, Python, C++
-- **Frontend**: React, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express, REST APIs, MongoDB, Firebase
-- **Tools**: Git, Docker, Postman, VS Code, Linux
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### 🚧 Current Status
+- 🧠 Learning new things every day
+- 💻 Experimenting with cool side projects
+- 🚀 Getting better at frontend and backend one commit at a time
 
 ---
 
 ### 📈 GitHub Stats
 
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiopoli77&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiopoli77&layout=compact&theme=github_dark)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [📱 MyApp](https://github.com/sergiopoli77/myapp) | A mobile-friendly task manager with reminders and calendar sync | React, Firebase |
-| [🌐 DevPortfolio](https://github.com/sergiopoli77/devportfolio) | My personal portfolio site showcasing skills and projects | Next.js, Tailwind CSS |
-| [📊 DataDash](https://github.com/sergiopoli77/datadash) | A dashboard app for real-time data visualization | Node.js, Chart.js |
-
----
-
-### 📌 Let's Connect!
-
-Feel free to connect with me or check out some of my work:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-lightgrey?style=for-the-badge)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-contact-green?style=for-the-badge)](mailto:sergiopoli@example.com)
+![Jeverly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+Thanks for visiting! 🚀
