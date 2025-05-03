@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I'm a passionate software developer who enjoys bui
 
 ### 📈 GitHub Stats
 
-![Jeverly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergiopoli77&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiopoli77&layout=compact&theme=tokyonight)
 
 ---
 
