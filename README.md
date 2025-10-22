@@ -1,9 +1,9 @@
 <h1 align="center">
   👋 Hi, I'm <span style="color:#61DAFB;">Sergio Poli</span>
 </h1>
+
 <p align="center">
-  <em>Code. Create. Learn. Automate.</em> <br>
-  Building intelligent, scalable, and immersive digital experiences.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&lines=Code.;Create.;Learn.;Automate." />
 </p>
 
 ---
@@ -22,8 +22,17 @@
 
 ### 🏆 Flagship Project — *AI-Powered Citizen Complaint System*  
 
-> ⚡ **My signature project**  
-> This system revolutionizes how communities report issues **quickly, intelligently, and automatically via WhatsApp**.
+<p align="center">
+  <a href="https://example.com/citizen-complaint-system">
+    <img src="https://img.shields.io/badge/🚀-Flagship%20Project-brightgreen?style=for-the-badge&logo=appveyor" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://example.com/citizen-complaint-system">
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="AI LLM Citizen Complaint System Demo" width="600"/>
+  </a>
+</p>
 
 🧩 **Key Features:**  
 - 💬 **AI LLM Integration** – Automatically understand and classify complaints, providing intelligent responses  
@@ -81,6 +90,11 @@
 ---
 
 ### ⚙️ What I Do  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=61DAFB&center=true&vCenter=true&lines=Building+AI+Systems;Creating+Mobile+Apps;Exploring+XR+Worlds;Automating+Workflows" />
+</p>
+
 - 💻 Build **web & mobile applications** using React, React Native, and Express  
 - 🤖 Integrate **AI LLMs** for intelligent automation  
 - 🔌 Develop **API & messaging integrations** (WhatsApp Gateway, OpenAI API)  
@@ -103,10 +117,10 @@
 
 <p align="center">
   <a href="https://discord.com/users/581871647066423297">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA"/>
   </a>
   <a href="https://instagram.com/sergiooyp">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
   </a>
 </p>
 
