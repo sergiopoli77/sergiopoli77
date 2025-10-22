@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&lines=Code.;Create.;Learn.;Automate." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&lines=Code.;Create;Learn;Automate" />
 </p>
 
 ---
@@ -21,6 +21,9 @@
 ---
 
 ### 🏆 Flagship Project — *AI-Powered Citizen Complaint System*  
+> ⚡ **My signature project**  
+> This system revolutionizes how communities report issues **quickly, intelligently, and automatically via WhatsApp**.
+
 
 <p align="center">
   <a href="https://example.com/citizen-complaint-system">
