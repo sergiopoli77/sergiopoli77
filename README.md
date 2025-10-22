@@ -24,10 +24,6 @@
 > ⚡ **My signature project**  
 > This system revolutionizes how communities report issues **quickly, intelligently, and automatically via WhatsApp**.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsXK3BHuO02Z9b6/giphy.gif" alt="AI LLM Citizen Complaint System Demo" width="600"/>
-</p>
-
 🧩 **Key Features:**  
 - 💬 **AI LLM Integration** – Automatically understand and classify complaints, providing intelligent responses  
 - 📲 **WhatsApp Gateway** – Real-time reporting via chat  
@@ -86,7 +82,7 @@
 ### ⚙️ What I Do  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Automation, AI & Workflow GIF" width="600"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=61DAFB&center=true&vCenter=true&lines=Building+AI+Systems;Creating+Mobile+Apps;Exploring+XR+Worlds;Automating+Workflows" />
 </p>
 
 - 💻 Build **web & mobile applications** using React, React Native, and Express  
@@ -123,4 +119,4 @@
 ### ⚡ Fun Fact  
 > “Technology is best when it brings people together.” — *Matt Mullenweg*  
 
-<p align="center">✨ Thanks for visiting! Keep coding, keep creating, and keep innovating. 🚀</p>
+<p align="center">✨ Thanks for visiting! Keep coding, keep creating, and keep innovating. 🚀</p> 
