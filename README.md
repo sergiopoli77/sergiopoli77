@@ -24,17 +24,8 @@
 > ⚡ **My signature project**  
 > This system revolutionizes how communities report issues **quickly, intelligently, and automatically via WhatsApp**.
 
-
 <p align="center">
-  <a href="https://example.com/citizen-complaint-system">
-    <img src="https://img.shields.io/badge/🚀-Flagship%20Project-brightgreen?style=for-the-badge&logo=appveyor" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://example.com/citizen-complaint-system">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="AI LLM Citizen Complaint System Demo" width="600"/>
-  </a>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="AI LLM Citizen Complaint System Demo" width="600"/>
 </p>
 
 🧩 **Key Features:**  
