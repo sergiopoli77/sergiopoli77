@@ -8,9 +8,8 @@
 
 ---
 
-### 💡 About Me  
-- 👨‍💻 Full-stack & mobile developer passionate about crafting modern and intelligent systems  
-- ⚙️ Experienced in **AI LLM Integration**, **WhatsApp Gateway**, and **XR (Extended Reality) Development**  
+### 💡 About Me   
+- ⚙️ Experienced in **AI LLM Integration** and **WhatsApp Gateway**  
 - 🚀 Skilled with **React.js**, **React Native**, **Express.js**, **Firebase**, and **MongoDB**  
 - 📱 Building **cross-platform mobile apps** with React Native  
 - 🧠 Exploring **Machine Learning**, **AI-driven automation**, **n8n**, and **CI/CD pipelines**  
@@ -72,7 +71,6 @@
   <img src="https://img.shields.io/badge/n8n%20Automation-EA4AAA?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
   <img src="https://img.shields.io/badge/XR%20Development-6A1B9A?style=for-the-badge&logo=oculus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
