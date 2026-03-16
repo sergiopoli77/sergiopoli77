@@ -3,96 +3,148 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&lines=Learn;Code;Create;Automate;Repeat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&lines=LLM+Developer;AI+Applications;Build;Automate;Repeat" />
 </p>
 
 ---
 
-### 💡 About Me   
-- ⚙️ Experienced in **AI LLM Integration** and **WhatsApp Gateway**  
-- 🚀 Skilled with **React.js**, **React Native**, **Express.js**, **Firebase**, and **MongoDB**  
-- 📱 Building **cross-platform mobile apps** with React Native  
-- 🧠 Exploring **Machine Learning**, **AI-driven automation**, **n8n**, and **CI/CD pipelines**  
-- 🎮 Enthusiast in **Game Development**, blending creativity with interactivity  
-- 💡 Love merging **AI + Automation + Creativity + Immersion** to push technology forward  
-- 🌱 Always learning, building, and experimenting with real-world innovations  
+### 💡 About Me  
+
+- 🤖 **LLM Developer** focused on building AI-powered applications and intelligent systems  
+- ⚙️ Experienced in **LLM Integration, AI Chatbots, and automation workflows**  
+- 🧠 Working with **Retrieval-Augmented Generation (RAG), LangChain, and vector databases**  
+- 💻 Skilled in building **fullstack web systems** using **React.js, Node.js, and Express.js**  
+- 🔌 Developing integrations with **WhatsApp Gateway, APIs, and AI services**  
+- 🚀 Passionate about creating **practical AI solutions for real-world problems**
 
 ---
 
-### 🏆 Flagship Project — *AI-Powered Citizen Complaint System*  
-> ⚡ **My signature project**  
-> This system revolutionizes how communities report issues **quickly, intelligently, and automatically via WhatsApp**.
+# 🏆 Flagship Project
 
-🧩 **Key Features:**  
-- 💬 **AI LLM Integration** – Automatically understand and classify complaints, providing intelligent responses  
-- 📲 **WhatsApp Gateway** – Real-time reporting via chat  
-- ⚙️ **Workflow Automation with n8n** – Manages complaint flow from input to follow-up  
-- ☁️ **Firebase & MongoDB** – Scalable and secure data storage  
-- 🚀 **CI/CD Pipelines** – Always up-to-date and production-ready  
-- 🤝 **Real social impact** – Helps government & communities respond faster & more efficiently  
+### AI-Powered Citizen Complaint System  
 
-> 🌟 This is my most **proud and impactful project**, combining **AI, automation, and social innovation**.  
+> ⚡ **Signature Project**
 
----
+A digital assistant system that allows citizens to submit complaints through **WhatsApp with AI-powered responses**, helping public institutions manage community issues more efficiently.
 
-### 🏅 Other Notable Projects  
+🧩 **Key Features**
 
-#### 1️⃣ Alaise by The Lake – Restaurant / Tourism Website  
-> A responsive website for **Alaise restaurant & tourism spot in Manado**, showcasing menus, gallery, and online booking.  
+- 🤖 **LLM Integration** — Enables intelligent understanding and automated responses to citizen complaints  
+- 📲 **WhatsApp Gateway Integration** — Citizens can report issues directly through chat  
+- 🔗 **LangChain Framework** — Handles LLM workflows and conversation processing  
+- ☁️ **Scalable backend architecture** built with Express and modern web technologies  
 
-🧩 **Key Features:**  
-- 🌐 Responsive **design for desktop & mobile**  
-- 📸 Integrated **photo gallery** & menu display  
-- 💬 **Online booking system** with real-time notifications  
-
-#### 2️⃣ Alaise Attendance System  
-> A digital attendance system to simplify employee/student check-ins at Alaise.  
-
-🧩 **Key Features:**  
-- 📊 **Real-time attendance tracking**  
-- ⚙️ **Backend automation** with Firebase / Express  
-- 💡 User-friendly interface for admin & participants  
+> 🌟 Combines **AI, messaging platforms, and automation** to improve public service responsiveness.
 
 ---
 
-### 🛠️ Tech Stack  
+# 🏅 Other Notable Projects  
+
+### AI Document Assistant (RAG-Based)
+
+An AI-powered document assistant that allows users to **upload documents and ask questions about their content**.
+
+**Key Features**
+
+- Document upload and processing  
+- Retrieval-Augmented Generation (RAG)  
+- AI-powered document understanding  
+- Interactive Q&A interface for document analysis  
+
+---
+
+### Tuberculosis (TBC) WhatsApp Chatbot
+
+An AI chatbot designed to provide **information and assistance related to Tuberculosis (TBC)** through WhatsApp.
+
+**Key Features**
+
+- LLM-powered health information responses  
+- WhatsApp chatbot interaction  
+- Automated responses to common TBC-related questions  
+- Accessible health information through messaging platforms  
+
+---
+
+### POS / Point-of-Sale System
+
+A web-based POS system for managing sales transactions, products, and inventory.
+
+**Key Features**
+
+- Transaction management  
+- Product and inventory tracking  
+- Sales reporting system  
+
+---
+
+### Agriculture Management System
+
+A digital platform designed to manage agricultural operations and farm productivity.
+
+**Key Features**
+
+- Crop tracking and harvest monitoring  
+- Fertilizer usage records  
+- Agricultural inventory management  
+
+---
+
+### Employee Attendance System
+
+A web-based attendance system where employees check in using **selfie verification**.
+
+**Key Features**
+
+- Selfie-based attendance check-in  
+- Admin monitoring dashboard  
+- Real-time attendance records  
+
+---
+
+### À L’aise by the Lake Website
+
+A website for a restaurant and tourism experience platform.
+
+**Key Features**
+
+- Restaurant information and gallery  
+- Experience booking (sailing, bicycling, pottery, painting, prewedding)  
+- Payment gateway integration  
+
+---
+
+# 🛠️ Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Mobile%20App-0A84FF?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n%20Automation-EA4AAA?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XR%20Development-6A1B9A?style=for-the-badge&logo=oculus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG%20Systems-6A1B9A?style=for-the-badge"/>
 </p>
 
 ---
 
-### ⚙️ What I Do  
+# ⚙️ What I Do  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=61DAFB&center=true&vCenter=true&lines=Building+AI+Systems;Creating+Mobile+Apps;Exploring+XR+Worlds;Automating+Workflows" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=61DAFB&center=true&vCenter=true&lines=Building+LLM+Applications;Developing+AI+Assistants;Integrating+AI+Systems;Automating+Workflows" />
 </p>
 
-- 💻 Build **web & mobile applications** using React, React Native, and Express  
-- 🤖 Integrate **AI LLMs** for intelligent automation  
-- 🔌 Develop **API & messaging integrations** (WhatsApp Gateway, OpenAI API)  
-- 🧩 Orchestrate **automation workflows** with n8n  
-- 🎮 Create **immersive XR & game experiences** with Unity & Unreal Engine  
-- ☁️ Deploy **scalable cloud-connected apps** with Firebase & MongoDB  
+- 🤖 Build **AI applications using Large Language Models**  
+- 🧠 Develop **RAG-based intelligent assistants**  
+- 💻 Create **fullstack platforms for AI systems**  
+- 🔌 Integrate **LLMs with APIs, messaging systems, and automation tools**
 
 ---
 
-### 📊 GitHub Insights  
+# 📊 GitHub Insights  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sergiopoli77&show_icons=true&theme=tokyonight" height="160px"/>
@@ -101,20 +153,21 @@
 
 ---
 
-### 🌐 Connect With Me  
+# 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://discord.com/users/581871647066423297">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA"/>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://instagram.com/sergiooyp">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ### ⚡ Fun Fact  
-> “Technology is best when it brings people together.” — *Matt Mullenweg*  
 
-<p align="center">✨ Thanks for visiting! Keep coding, keep creating, and keep innovating. 🚀</p> 
+> “Technology is best when it brings people together.” — Matt Mullenweg  
+
+<p align="center">✨ Thanks for visiting! 🚀</p>
