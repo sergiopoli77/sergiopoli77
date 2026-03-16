@@ -102,7 +102,7 @@ A web-based attendance system where employees check in using **selfie verificati
 
 ---
 
-### À L’aise by the Lake Website
+### À L’AISE by the Lake Website
 
 A website for a restaurant and tourism experience platform.
 
