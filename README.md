@@ -1,15 +1,10 @@
 <div align="center">
-
 <!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Sergio%20Poli&fontSize=75&fontColor=61DAFB&fontAlignY=45&animation=fadeIn" />
-
-
 <!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=sergiopoli77&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS&labelColor=0D1117" />
 &nbsp;
-
 <br/><br/>
-
 <!-- CONNECT BADGES -->
 <a href="https://www.linkedin.com/in/sergio-yosep-poli">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
@@ -22,7 +17,6 @@
 <a href="mailto:sergioypoli77@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
 </a>
-
 </div>
 
 ---
@@ -41,14 +35,21 @@
 **💻 Frontend & Backend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **🗄️ Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**⚙️ DevOps & CI/CD**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 **🔌 Integrations & Tools**
 
@@ -63,15 +64,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sergiopoli77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=8b949e&border_radius=10&include_all_commits=true&count_private=true" height="180px"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sergiopoli77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=8b949e&border_radius=10" height="180px"/>
-
 <br/><br/>
-
 <img src="https://streak-stats.demolab.com/?user=sergiopoli77&theme=tokyonight&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=FF6B6B&currStreakLabel=61DAFB&sideLabels=8b949e&dates=8b949e&border_radius=10" height="180px"/>
-
 </div>
 
 ---
@@ -89,8 +86,6 @@
 > *"Technology is best when it brings people together."* — Matt Mullenweg
 
 <br/>
-
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer&animation=fadeIn" />
-
 </div>
