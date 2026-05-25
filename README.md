@@ -11,7 +11,6 @@
 <!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=sergiopoli77&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS&labelColor=0D1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D26A?style=for-the-badge&labelColor=0D1117"/>
 
 <br/><br/>
 
@@ -85,18 +84,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sergiopoli77/sergiopoli77/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🎯 What I Build
-
-<div align="center">
-
-| 🤖 AI Applications | 🧠 RAG Systems | 🔌 Integrations | 💻 Fullstack |
-|:---:|:---:|:---:|:---:|
-| LLM-powered apps that understand natural language | Intelligent assistants that retrieve & reason over documents | Connecting LLMs with APIs & messaging systems | End-to-end web systems for AI workflows |
-
 </div>
 
 ---
