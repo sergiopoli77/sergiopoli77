@@ -3,10 +3,6 @@
 <!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Sergio%20Poli&fontSize=75&fontColor=61DAFB&fontAlignY=45&animation=fadeIn" />
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=🤖+LLM+Developer;🧠+RAG+%2B+LangChain+%2B+Vector+Databases;📲+AI+%2B+WhatsApp+Automation;🚀+Building+Real+AI+Solutions" alt="Typing SVG" />
-
-<br/>
 
 <!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=sergiopoli77&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS&labelColor=0D1117" />
