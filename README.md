@@ -216,13 +216,13 @@ Website for a restaurant and tourism experience platform.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sergiopoli77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=8b949e&border_radius=10" height="180px"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sergiopoli77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=8b949e&border_radius=10" height="180px"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiopoli77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=8b949e&border_radius=10" height="180px"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sergiopoli77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=8b949e&border_radius=10" height="180px"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiopoli77&theme=tokyonight&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=FF6B6B&currStreakLabel=61DAFB&sideLabels=8b949e&dates=8b949e&border_radius=10" height="180px"/>
+<img src="https://streak-stats.demolab.com/?user=sergiopoli77&theme=tokyonight&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=FF6B6B&currStreakLabel=61DAFB&sideLabels=8b949e&dates=8b949e&border_radius=10" height="180px"/>
 
 </div>
 
