@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sergio%20Poli&fontSize=70&fontColor=61DAFB&fontAlignY=40&desc=LLM%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder&descAlignY=65&descSize=18&descColor=8b949e&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sergio%20Poli&fontSize=70&fontColor=61DAFB&fontAlignY=40&desc=LLM%20Developer&descAlignY=65&descSize=18&descColor=8b949e&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/sergiopoli77">
@@ -35,7 +35,7 @@
 ```python
 class SergioPoli:
     name        = "Sergio Poli"
-    role        = "LLM Developer & AI Engineer"
+    role        = "LLM Developer"
     location    = "Indonesia 🇮🇩"
 
     focus       = [
@@ -234,42 +234,6 @@ Website for a restaurant and tourism experience platform.
   <img src="https://raw.githubusercontent.com/sergiopoli77/sergiopoli77/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> ⚙️ **To activate the snake animation**, add a GitHub Actions workflow to your repo. See setup below ↓
-
-<details>
-<summary>🔧 <b>Setup Snake Animation (click to expand)</b></summary>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
 
 ## 🎯 What I Build
 
