@@ -64,7 +64,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sergiopoli77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=8b949e&border_radius=10" height="180px"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sergiopoli77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=8b949e&border_radius=10&include_all_commits=true&count_private=true" height="180px"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sergiopoli77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=8b949e&border_radius=10" height="180px"/>
 
