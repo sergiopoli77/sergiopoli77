@@ -3,24 +3,20 @@
 <!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sergio%20Poli&fontSize=70&fontColor=61DAFB&fontAlignY=40&desc=LLM%20Developer&descAlignY=65&descSize=18&descColor=8b949e&animation=fadeIn" />
 
+## 💬 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sergio-yosep-poli">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/sergiooyp">
+  <img src="https://img.shields.io/badge/Instagram-Follow%20me-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/>
+</a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-<p>
-  <a href="https://www.linkedin.com/in/sergio-yosep-poli">
-    <img src="https://img.shields.io/badge/LinkedIn-sergio--yosep--poli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/sergiooyp">
-    <img src="https://img.shields.io/badge/Instagram-@sergiooyp-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D26A?style=for-the-badge&labelColor=0D1117"/>
-</p>
-<!-- PROFILE VIEWS COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=sergiopoli77&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS&labelColor=0D1117" />
-</div>
 
 
 
@@ -78,18 +74,6 @@
 
 
 ---
-
-## 💬 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sergio-yosep-poli">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/sergiooyp">
-  <img src="https://img.shields.io/badge/Instagram-Follow%20me-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/>
-</a>
 
 <br/><br/>
 
