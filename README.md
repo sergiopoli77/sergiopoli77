@@ -35,7 +35,7 @@
 
 <div align="center">
 
-**🤖 AI & Machine Learning**
+**🤖 AI**
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
