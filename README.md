@@ -12,8 +12,8 @@
 
 <!-- SOCIAL BADGES -->
 <p>
-  <a href="https://discord.com/users/581871647066423297">
-    <img src="https://img.shields.io/badge/Discord-581871647066423297-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117"/>
+  <a href="https://www.linkedin.com/in/sergio-yosep-poli">
+    <img src="https://img.shields.io/badge/LinkedIn-sergio--yosep--poli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
   </a>
   &nbsp;
   <a href="https://instagram.com/sergiooyp">
@@ -22,10 +22,8 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D26A?style=for-the-badge&labelColor=0D1117"/>
 </p>
-
 <!-- PROFILE VIEWS COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=sergiopoli77&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS&labelColor=0D1117" />
-
 </div>
 
 ---
